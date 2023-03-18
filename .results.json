@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-03-18T07:57:35.148Z",
+    "end": "2023-03-18T07:57:35.153Z",
+    "duration": 5
+  },
+  "tests": [
+    {
+      "title": "contains a <link> tag",
+      "fullTitle": "index.html contains a <link> tag",
+      "file": "/Users/neethupathirikkat/Development/code/my-personal-website/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "correctly links to the style.css file with a relative path",
+      "fullTitle": "index.html correctly links to the style.css file with a relative path",
+      "file": "/Users/neethupathirikkat/Development/code/my-personal-website/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "contains a <link> tag",
+      "fullTitle": "index.html contains a <link> tag",
+      "file": "/Users/neethupathirikkat/Development/code/my-personal-website/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "correctly links to the style.css file with a relative path",
+      "fullTitle": "index.html correctly links to the style.css file with a relative path",
+      "file": "/Users/neethupathirikkat/Development/code/my-personal-website/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
